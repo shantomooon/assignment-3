@@ -1,0 +1,105 @@
+.Portfolio{
+  display: flex;
+ margin: 30px 30px;
+}
+.barn{
+ width: 26px;
+height: 26px;
+border-radius: 32px;
+background: rgb(171, 239, 95);
+padding: 4px;
+margin: 6px 0px;
+
+  }
+  
+.Rinterio{
+    display: flex;
+    margin: 16px 8px;
+
+}
+.flex{
+font-size: 26px;
+font-weight: 600;
+line-height: 0px;
+
+
+}
+.nav{
+  display: flex;
+  align-items: center;
+padding: 0px;
+margin: 18px 1px 20px 26px;
+
+}
+.Home{
+  font-size: 16px;
+font-weight: 800;
+margin-left: 60px;
+
+}
+.pixso{
+  font-size: 16px;
+font-weight: 400;
+color: rgb(115, 115, 115);
+margin: 0px 36.25px;
+}
+.hero{
+  font-size: 20px;
+font-weight: 800;
+border-radius: 32px;
+padding:  20px;
+background: rgb(171, 239, 95);
+}
+.banner{
+  display: flex;
+ justify-content: center;
+  align-items: center;
+ 
+  
+}
+.tag{
+  color:black;
+            font-weight: 900;
+            font-size: 48px;
+            position: static;
+            margin: 28px 0px;
+            text-align: center;
+}
+.Lorem{
+  text-align: center;
+            font-weight: 400;
+            font-size: 16px;
+            color: blackS;
+            align-items: center;
+            justify-content: flex-start;
+}
+.button{
+  font-size: 20px;
+  font-weight: 700;
+border: 1px solid rgb(171, 239, 95);
+border-radius: 40px;
+background: rgba(171, 239, 95, 0.5);
+padding: 12px 20px 12px 20px;
+}
+.arrow{
+  padding: 5px ;
+}
+/* .row{
+  display: flex;
+  margin: 30px;
+} */
+/* .book{
+  padding:  20px 20px 30px 0px;
+} */
+.cart{
+  display: flex;
+  
+}
+.body{
+  margin:  14px 20px;
+border-radius: 32px;
+padding: 18px;
+border: 1px solid rgb(233, 233, 233);
+border-radius: 56px;
+background: rgb(255, 255, 255);
+}
